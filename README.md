@@ -7,4 +7,30 @@ In order to run a task manager program based on Python you just have to run the 
 - You need to install tkcalender <br>
 <code> pip install tkcalender </code> 
 
-<b> <i> Note: Tkcalender is used for the DataEntry and Calendar widgets for Tkinter </i> <b> 
+<b> <i> Note: Tkcalender is used for the DataEntry and Calendar widgets for Tkinter </i> </b> 
+
+## Usage
+  
+- Download the repository and unzip the file.
+- Run the python file named taskmanagement.py
+- Enjoy managing tasks.
+
+## Features
+
+- The task contains information like the title, description, date of start, date of end.
+- You have the ability to store several tasks in a file.
+- You have the ability to add, remove, and edit tasks of a file.
+- A program has standard functionalities like Open the file, Save, Save As, …… Quit Program.
+
+## List of shortcuts for task manager program
+
+- <code> <Ctrl>-<O> </code> : Open a file <br>
+- <code> <Ctrl>-<S> </code> : Save the current file <br>
+- <code> <Ctrl>-<W> </code> : Close current file <br>
+- <code> <Ctrl>-<Q> </code>: Quit application <br>
+- <code> <Alt>-<Up> </code>: Select previous tasks (go Up in the list) <br>
+- <code> <Alt>-<Down> </code>: Select next tasks (go Down in the list) <br>
+- <code> <Alt>-<D> </code>: Delete selected task <br>
+- <code> <Alt>-<A> </code>: Toggle About Frame <br>
+- <code> <Alt>-<V> </code>: Validate changes in memory (but not on disk) <br>
+- <code> <F1> </code>: Toggle Help Frame <br>
