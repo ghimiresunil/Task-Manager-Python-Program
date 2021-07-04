@@ -24,7 +24,7 @@ In order to run a task manager program based on Python you just have to run the 
 
 ## List of shortcuts for task manager program
 
-- <code> <Ctrl>-<O> </code> : Open a file <br>
+- <code> '<Ctrl>-<O>' </code> : Open a file <br>
 - <code> <Ctrl>-<S> </code> : Save the current file <br>
 - <code> <Ctrl>-<W> </code> : Close current file <br>
 - <code> <Ctrl>-<Q> </code>: Quit application <br>
