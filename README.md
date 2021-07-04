@@ -1,5 +1,7 @@
 # TaskManager
 
+![](https://graspcoding.com/wp-content/uploads/2020/09/Tech-Tutor-File-1.png)
+
 In order to run a task manager program based on Python you just have to run the python file named taskmanagement.py. So, Task manager is a simple application for managing tasks where data are stored in JSON files.
 
 ## Requirements needed to run the task manager program
@@ -38,4 +40,15 @@ In order to run a task manager program based on Python you just have to run the 
 ## Results
 
 ![](https://graspcoding.com/wp-content/uploads/2020/09/image.png)
+*Figure 01: Saving Demo Task*
 
+![](https://graspcoding.com/wp-content/uploads/2020/09/image-1.png)
+*Figure 02: Opening Example Data*
+
+![](https://graspcoding.com/wp-content/uploads/2020/09/image-2-768x257.png)
+*Figure 03: Example data with list of shortcuts*
+
+![](https://graspcoding.com/wp-content/uploads/2020/09/image-4-768x260.png)
+*Figure 04:  Modifying date of Task One*
+
+# 😊 Thanks for your time 😊
