@@ -24,13 +24,13 @@ In order to run a task manager program based on Python you just have to run the 
 
 ## List of shortcuts for task manager program
 
-- <code> '<Ctrl>-<O>' </code> : Open a file <br>
-- <code> <Ctrl>-<S> </code> : Save the current file <br>
-- <code> <Ctrl>-<W> </code> : Close current file <br>
-- <code> <Ctrl>-<Q> </code>: Quit application <br>
-- <code> <Alt>-<Up> </code>: Select previous tasks (go Up in the list) <br>
-- <code> <Alt>-<Down> </code>: Select next tasks (go Down in the list) <br>
-- <code> <Alt>-<D> </code>: Delete selected task <br>
-- <code> <Alt>-<A> </code>: Toggle About Frame <br>
-- <code> <Alt>-<V> </code>: Validate changes in memory (but not on disk) <br>
-- <code> <F1> </code>: Toggle Help Frame <br>
+- <code> CTRL + O </code> : Open a file <br>
+- <code> CTRL + S </code> : Save the current file <br>
+- <code> CTRL + W </code> : Close current file <br>
+- <code> CTRL + Q </code>: Quit application <br>
+- <code> Alt + Up </code>: Select previous tasks (go Up in the list) <br>
+- <code> Alt + Down </code>: Select next tasks (go Down in the list) <br>
+- <code> Alt + D </code>: Delete selected task <br>
+- <code> Alt + A </code>: Toggle About Frame <br>
+- <code> Alt + V </code>: Validate changes in memory (but not on disk) <br>
+- <code> F1 </code>: Toggle Help Frame <br>
