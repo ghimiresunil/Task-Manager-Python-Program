@@ -34,3 +34,8 @@ In order to run a task manager program based on Python you just have to run the 
 - <code> Alt + A </code>: Toggle About Frame <br>
 - <code> Alt + V </code>: Validate changes in memory (but not on disk) <br>
 - <code> F1 </code>: Toggle Help Frame <br>
+
+## Results
+
+![Figure 01: Saving Demo Task] (https://graspcoding.com/wp-content/uploads/2020/09/image.png)
+
