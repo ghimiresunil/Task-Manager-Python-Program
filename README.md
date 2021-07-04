@@ -37,5 +37,5 @@ In order to run a task manager program based on Python you just have to run the 
 
 ## Results
 
-![Figure 01: Saving Demo Task] (https://graspcoding.com/wp-content/uploads/2020/09/image.png)
+![](https://graspcoding.com/wp-content/uploads/2020/09/image.png)
 
