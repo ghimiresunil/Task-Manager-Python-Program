@@ -39,16 +39,16 @@ In order to run a task manager program based on Python you just have to run the 
 
 ## Results
 
-![](https://graspcoding.com/wp-content/uploads/2020/09/image.png)
+![](https://graspcoding.com/wp-content/uploads/2020/09/image.png) <br>
 *Figure 01: Saving Demo Task*
 
-![](https://graspcoding.com/wp-content/uploads/2020/09/image-1.png)
+![](https://graspcoding.com/wp-content/uploads/2020/09/image-1.png) <br>
 *Figure 02: Opening Example Data*
 
-![](https://graspcoding.com/wp-content/uploads/2020/09/image-2-768x257.png)
+![](https://graspcoding.com/wp-content/uploads/2020/09/image-2-768x257.png) <br>
 *Figure 03: Example data with list of shortcuts*
 
-![](https://graspcoding.com/wp-content/uploads/2020/09/image-4-768x260.png)
+![](https://graspcoding.com/wp-content/uploads/2020/09/image-4-768x260.png) <br>
 *Figure 04:  Modifying date of Task One*
 
 # 😊 Thanks for your time 😊
